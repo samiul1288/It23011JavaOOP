@@ -36,6 +36,9 @@ public class readfileonetoother {
         }
     }
 }
+//input 10 20 30 40 50
+//highest value =60
+//sum=150
 
 
 
